@@ -1,2 +1,4 @@
-# BAE_compilation_notes
-BAE's compilation notes.
+# BAE_Ada_Lovelace_cpp
+BAE SYSTEMS
+
+CPP LEARNING NOTES.
