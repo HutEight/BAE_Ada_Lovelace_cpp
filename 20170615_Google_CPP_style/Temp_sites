@@ -1,3 +1,11 @@
+1. Linkage and Translation Unit
 https://stackoverflow.com/questions/1358400/what-is-external-linkage-and-internal-linkage
 https://en.wikipedia.org/wiki/Translation_unit_(programming)
+
+2. assert()
+http://www.cplusplus.com/reference/cassert/assert/
+http://en.cppreference.com/w/cpp/error/assert
+https://stackoverflow.com/questions/1571340/what-is-the-assert-function
+
+
 
